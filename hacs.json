@@ -1,6 +1,6 @@
 {
   "name": "Atmospheric Weather Card old",
-  "filename": "atmo-weather-card.js",
+  "filename": "atmospheric-weather-card.js",
   "render_readme": true,
   "homeassistant": "2024.1.0"
 }
